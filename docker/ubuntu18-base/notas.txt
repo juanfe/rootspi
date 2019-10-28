@@ -1,0 +1,15 @@
+Toca instalar tzdata con una opción predeterminada, yo escogería 12
+
+Configuring tzdata
+------------------
+
+Please select the geographic area in which you live. Subsequent configuration
+questions will narrow this down by presenting a list of cities, representing
+the time zones in which they are located.
+
+  1. Africa        6. Asia            11. System V timezones
+  2. America       7. Atlantic Ocean  12. US
+  3. Antarctica    8. Europe          13. None of the above
+  4. Australia     9. Indian Ocean
+  5. Arctic Ocean  10. Pacific Ocean
+Geographic area: 12
